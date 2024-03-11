@@ -1,0 +1,31 @@
+nav{
+    display:flex;
+    align-items: center;
+    justify-content: end;
+    font-size: 25px;
+    margin-bottom: 20px;
+}
+a{
+    margin-left: 20px;
+    margin-right: 20px;
+    color: black;
+}
+body{
+    background-color: gray;
+}
+img{
+    border-radius: 25%;
+}
+.content{
+
+   margin: 50px 50px;
+   font-size: 40px;
+}
+div{
+ display: flex;
+ justify-content: end;
+ align-items: center;
+}
+.headerName{
+    margin-right: 850px;
+}
